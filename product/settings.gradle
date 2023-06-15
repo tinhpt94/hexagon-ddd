@@ -1,0 +1,5 @@
+rootProject.name = 'product'
+include 'domain'
+include 'application'
+include 'infra'
+
